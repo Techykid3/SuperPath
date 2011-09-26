@@ -1,0 +1,5 @@
+///******************InfinityCraft Coding******************\\\
+Commands:
+/track - Starts Track
+/track (second time) - Stops Track
+/tracktype <ITEM ID> - Sets track item
