@@ -1,0 +1,10 @@
+name: SuperPath
+main: me.techykid3.SuperPath.SuperPath
+version: 0.1
+commands:
+ track:
+    description: Used to make tracks!
+    usage: /track
+ tracktype:
+    description: Used to sseett  the type of the track!
+    usage: /tracktype
