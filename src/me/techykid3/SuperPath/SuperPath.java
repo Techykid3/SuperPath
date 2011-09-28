@@ -58,6 +58,8 @@ public static Material type;
 				sender.sendMessage("Check it out you are now making a path!");
 				this.getServer().broadcastMessage(ChatColor.RED + "[SuperPath] is being used by: " + ChatColor.AQUA + ((Player) sender).getDisplayName());
 			}
+			}else{
+				sender.sendMessage("You don't have permission to use this command!");
 			}
 		}else{
 			sender.sendMessage("Only ingame players can use this command!");
@@ -76,6 +78,9 @@ public static Material type;
 				    config.load();
 					}
 				}
+			}else{
+				sender.sendMessage("You don't have permission to use this command!");
+			}
 			}
 		}
 		}
