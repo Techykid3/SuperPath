@@ -6,5 +6,5 @@ commands:
     description: Used to make tracks!
     usage: /track
  tracktype:
-    description: Used to sseett  the type of the track!
+    description: Used to set the type of the track!
     usage: /tracktype

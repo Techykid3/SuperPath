@@ -80,6 +80,7 @@ public static Material type;
 				}
 			}else{
 				sender.sendMessage("You don't have permission to use this command!");
+				
 			}
 			}
 		}
